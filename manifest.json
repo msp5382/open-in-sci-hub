@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Open In Sci-Hub",
+    "version": "0.0.1",
+    "icons": { 
+        "48": "icon48.png"},
+    "permissions": [
+        "contextMenus", 
+        "tabs"],
+    "background": {
+      "scripts": ["main.js"]
+    }
+  }

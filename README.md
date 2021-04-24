@@ -1,4 +1,4 @@
-# open-in-sci-hub
+# open-in-sci-hub but with hacks 
 Chrome and Microsoft Edge Extension for open research paper link in Sci-Hub
 
 ![Screen Shot](/screen.png "Screen Shot")
